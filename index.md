@@ -1,12 +1,6 @@
-<style>
-main-text{
-    color:white;
-}
-</style>
 
-<main-text>
 # Cloak - Part 1
-
+<main-text>
 Vasterash had been standing on the precipice for what felt like eons – it may have been. Everything that mattered to him before today mattered not. He looked out, through the golden mask that hid his visage, onto the great city of Gorgomenatosa below. He could feel the energy of thousands of demons and lesser beings radiating out from the labyrinthine buildings and streets – and then of course, there was them – the Firsts. He shook himself out of his reverie and descended to the city, the cloak that enveloped him billowing in the hot, damp air. No one, not even he, knew what lay beneath the ancient, fleshy fabric that clung to whatever form he was supposed to be. It had been millennia – he had stopped asking at this point.
 
 Reaching the streets below, he quickly orientated himself toward the pull of the Firsts and set off down the walkways, pavements, open sewers and barren land that made up the lower levels of the city. Being among others reminded him of why he stayed away, quietly doing his work, his ordained work, in peace. Those who saw him as he past shunned him, turning their heads away – even the dry-bones slaves wouldn’t look at him with their eyeless sockets. Was it fear, hatred, disgust? Perhaps all three, but Vasterash had made piece with it. A Hell Cloak is a hated thing, even in a world of repugnance.
@@ -37,3 +31,8 @@ Sister Black growled and crawled backwards to her seat on the dais with the othe
 </main-text>
 
 <body style="background-color:#000000;"></body>
+<style>
+main-text{
+    color:white;
+}
+</style>
