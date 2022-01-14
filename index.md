@@ -4,7 +4,7 @@ Vasterash had been standing on the precipice for what felt like eons – it may 
 
 Reaching the streets below, he quickly orientated himself toward the pull of the Firsts and set off down the walkways, pavements, open sewers and barren land that made up the lower levels of the city. Being among others reminded him of why he stayed away, quietly doing his work, his ordained work, in peace. Those who saw him as he past shunned him, turning their heads away – even the dry-bones slaves wouldn’t look at him with their eyeless sockets. Was it fear, hatred, disgust? Perhaps all three, but Vasterash had made piece with it. A Hell Cloak is a hated thing, even in a world of repugnance.
 
-![Vasterash](https://github.com/xxiled-plastic-cat/entorora-stories/blob/main/images/HC003.jpg)
+<img src="https://github.com/xxiled-plastic-cat/entorora-stories/blob/main/images/HC003.jpg" width="200" height="100">
 
 
 Finally, he came to it – the Seat of the Firsts. A huge dome rising out of the centre of the city – surrounded by effigies and tributes. The stone steps leading to the massive doors seemed that they would swallow you up if you tried to climb them. Vasterash knew he couldn’t turn back – the fate of all demon-kind was at stake. Even if he was an outcast, he still held some pride in the work he and others of his kind did – the empire would not fall today.
