@@ -2,9 +2,9 @@
 # Cloak - Part 1
 <span style="color:white">
 Vasterash had been standing on the precipice for what felt like eons – it may have been. Everything that mattered to him before today mattered not. He looked out, through the golden mask that hid his visage, onto the great city of Gorgomenatosa below. He could feel the energy of thousands of demons and lesser beings radiating out from the labyrinthine buildings and streets – and then of course, there was them – the Firsts. He shook himself out of his reverie and descended to the city, the cloak that enveloped him billowing in the hot, damp air. No one, not even he, knew what lay beneath the ancient, fleshy fabric that clung to whatever form he was supposed to be. It had been millennia – he had stopped asking at this point.
-
+<span style="color:white">
 Reaching the streets below, he quickly orientated himself toward the pull of the Firsts and set off down the walkways, pavements, open sewers and barren land that made up the lower levels of the city. Being among others reminded him of why he stayed away, quietly doing his work, his ordained work, in peace. Those who saw him as he past shunned him, turning their heads away – even the dry-bones slaves wouldn’t look at him with their eyeless sockets. Was it fear, hatred, disgust? Perhaps all three, but Vasterash had made piece with it. A Hell Cloak is a hated thing, even in a world of repugnance.
-
+<span style="color:white">
 Finally, he came to it – the Seat of the Firsts. A huge dome rising out of the centre of the city – surrounded by effigies and tributes. The stone steps leading to the massive doors seemed that they would swallow you up if you tried to climb them. Vasterash knew he couldn’t turn back – the fate of all demon-kind was at stake. Even if he was an outcast, he still held some pride in the work he and others of his kind did – the empire would not fall today.
 
 Vasterash slowly ascended the steps – the edges of his cloak grazing each step – he was hesitant but kept going until he passed through the massive iron doorway. He passed by the stairs leading to the audience chamber, past the kitchens and bone cages and he was soon standing at the edge of the great inner expanse – the chamber awaited. The air was heavier here, as if the decadence of the First Demons had fouled the very air around him. He moved into the main chamber, surrounding him on all sides, like a grand theatre were raised seats, for an audience to gawp at the spectacle below. There was no one in those seats today – today was a day for administrative business, a day no one attended – why else would Vasterash have chosen this day for his meeting.
@@ -28,6 +28,6 @@ Sister Black growled and crawled backwards to her seat on the dais with the othe
 “Thank you, First Demon Igar, I am most appreciative of your assistance” said Vasterash with forced humility. “I come baring dangerous news that may have dire consequences for our people.”
 
 “There is deception within the house of Lord Demons – a plan is in motion to overthrow our most magnificent leader and throw our world into chaos.”
-</span>
+
 
 <body style="background-color:#000000;"></body>
