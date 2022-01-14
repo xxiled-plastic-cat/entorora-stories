@@ -1,5 +1,3 @@
-<body style="background-color:#1c87c9;">
-
 # Cloak - Part 1
 
 Vasterash had been standing on the precipice for what felt like eons – it may have been. Everything that mattered to him before today mattered not. He looked out, through the golden mask that hid his visage, onto the great city of Gorgomenatosa below. He could feel the energy of thousands of demons and lesser beings radiating out from the labyrinthine buildings and streets – and then of course, there was them – the Firsts. He shook himself out of his reverie and descended to the city, the cloak that enveloped him billowing in the hot, damp air. No one, not even he, knew what lay beneath the ancient, fleshy fabric that clung to whatever form he was supposed to be. It had been millennia – he had stopped asking at this point.
@@ -29,3 +27,6 @@ Sister Black growled and crawled backwards to her seat on the dais with the othe
 “Thank you, First Demon Igar, I am most appreciative of your assistance” said Vasterash with forced humility. “I come baring dangerous news that may have dire consequences for our people.”
 
 “There is deception within the house of Lord Demons – a plan is in motion to overthrow our most magnificent leader and throw our world into chaos.”
+
+
+<body style="background-color:#1c87c9;">
